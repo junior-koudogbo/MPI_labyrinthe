@@ -1,0 +1,28 @@
+# Fichiers compilés
+gen_lab
+gen_lab-parallel
+chemin_lab
+*.o
+
+# Fichiers labyrinthe générés
+*.lab
+
+# Fichiers LaTeX temporaires
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Fichiers de debug
+core
+vgcore.*
+
+# Fichiers de log
+mesures_log.txt
+nohup.out
+
+# Fichiers système
+.DS_Store
+*~
+
